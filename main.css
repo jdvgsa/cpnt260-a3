@@ -1,8 +1,8 @@
 /* styling */
 
 body {
-
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
   background-color: rgba(0, 0, 0, 0.938);
   color: rgba(255, 255, 255, 0.911);
   text-align: center;
@@ -43,6 +43,7 @@ body {
 }
 
 h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 75px;
   color: rgb(34, 250, 34);
   margin-bottom: 0.5rem;
