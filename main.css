@@ -1,5 +1,5 @@
 body {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
   background-color: rgba(0, 0, 0, 0.938);
   color: rgba(255, 255, 255, 0.911);
   text-align: center;
@@ -9,10 +9,7 @@ body {
 }
 
 .hero-img {
-  /* background-image: url(https://media.istockphoto.com/id/1074862222/photo/planets-and-galaxy-cosmos-physical-cosmology-science-fiction-wallpaper.jpg?s=2048x2048&w=is&k=20&c=RWHkC9cZ1GnOm5V-a2lHLgQSi5wNanFnqDtF49QzXUc=); */
-
-  /* background-image: url(https://media.istockphoto.com/id/160306742/photo/hot-sunrise-in-space.jpg?s=612x612&w=0&k=20&c=YP6Rd0o-hL_9mqdg77AyP7vTuqf7fxOITTRpgs-kvoE=); */
-
+  
   background-image: url(https://media.istockphoto.com/id/1299973245/photo/asia-at-night-planet-earth-city-lights-space.jpg?s=612x612&w=0&k=20&c=0m4NlQPwZbzd_z01iiV62gTMZUTyoNk9_QZztZHltKE=);
  
 
@@ -47,20 +44,30 @@ p {
   font-size: 25px;
   padding-bottom: 20px;
   max-width: 35ch;
-  /* margin-bottom: 0.5rem; */
-  /* text-shadow: */
+  
 }
 
 .ctabutton {
   display: inline-block;
-  padding: 1rem;
-  background-color: rgba(5, 42, 252, 0.925);
+  background-color: rgba(26, 56, 223, 0.938);
   color: rgb(255, 255, 255);
   text-decoration: none;
-  border-radius: 5px;
   font-size: 30px;
   
+  padding: 1rem;
+  border-radius: 5px;
   margin-top: 0.5rem;
-  
-  /* padding-bottom: auto; */
+
 }
+
+a:hover {
+  color: yellow;
+  background-color: rebeccapurple;
+}
+
+
+  /* alternate background images */
+
+  /* background-image: url(https://media.istockphoto.com/id/1074862222/photo/planets-and-galaxy-cosmos-physical-cosmology-science-fiction-wallpaper.jpg?s=2048x2048&w=is&k=20&c=RWHkC9cZ1GnOm5V-a2lHLgQSi5wNanFnqDtF49QzXUc=); */
+
+  /* background-image: url(https://media.istockphoto.com/id/160306742/photo/hot-sunrise-in-space.jpg?s=612x612&w=0&k=20&c=YP6Rd0o-hL_9mqdg77AyP7vTuqf7fxOITTRpgs-kvoE=); */
