@@ -1,0 +1,39 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 150px;
+  margin-bottom: 25px;
+}
+
+header {
+  height: 100vh;
+  color: rgba(85, 177, 10, 0.966);
+
+  display: flex;
+  justify-content: center;
+
+}
+
+p {
+
+  font-size: 33px;
+  color: aquamarine;
+}
+
+.hero-img {
+  background-image: url(https://media.istockphoto.com/id/1074862222/photo/planets-and-galaxy-cosmos-physical-cosmology-science-fiction-wallpaper.jpg?s=2048x2048&w=is&k=20&c=RWHkC9cZ1GnOm5V-a2lHLgQSi5wNanFnqDtF49QzXUc=);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 2rem;
+  text-align: center;
+}
+
+.hero-section {
+  max-width: 85ch;
+  margin: 0 auto
+}
